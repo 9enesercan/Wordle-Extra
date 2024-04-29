@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Flutter (Pixel_3a_API_34_extension_level_7_x86_64)",
+            "program": "lib/main.dart",
+            "deviceId": "emulator-5554",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "debug"
+
+        },
+        {
+            "type": "node-terminal",
+            "name": "JavaScript Debug Terminal",
+            "request": "launch",
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
